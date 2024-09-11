@@ -8,7 +8,7 @@ export default function Home() {
     <section className={styles.homeSection}>
       <div className="container">
         <div className="image">
-          <img src="./app/img/jessie.png" alt="jessie" />
+          <img src="jessie.png" alt="jessie" />
         </div>
         <Button variant="contained">Contained</Button>
       </div>
